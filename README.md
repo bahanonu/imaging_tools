@@ -18,6 +18,7 @@ The table can also be found at:
 _Notes_:
 - I use _cell extraction_ to refer to algorithms that perform cell segmentation and extract neural activity traces.
 - Future versions of the repository will include table file (e.g. CSV) and basic LaTeX code so others can import or modify the table more easily going forward.
+- Depending on monitor size and browser, scroll horizontally to see right-most table columns (e.g. websites/URLs).
 - Any additional papers or algorithms that should be added or suggested updates to the table, leave a <a href='https://bahanonu.com/syscarut/articles/226/' target='_blank'>comment on the associated blog post</a> or open an issue on the GitHub page, I want to make sure everyone’s brilliant work is acknowledged!
 
 <figcaption class="caption" ><span class="id">Table 1: </span><span
