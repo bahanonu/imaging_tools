@@ -21,7 +21,7 @@ _Notes_:
 - Depending on monitor size and browser, scroll horizontally to see right-most table columns (e.g. websites/URLs).
 - Any additional papers or algorithms that should be added or suggested updates to the table, leave a <a href='https://bahanonu.com/syscarut/articles/226/' target='_blank'>comment on the associated blog post</a> or open an issue on the GitHub page, I want to make sure everyone’s brilliant work is acknowledged!
 
-<figcaption class="caption" ><span class="id">Table 1: </span><span
+<figcaption class="caption" ><span class="id">Table 1:</span><span
 class="content">Ca<sup class="textsuperscript"><span
 class="rm-lmr-10x-x-109">2+</span></sup> imaging cell extraction and trace reconstruction algorithms</span></figcaption><!--tex4ht:label?: x1-2r -->
 
@@ -29,14 +29,14 @@ class="rm-lmr-10x-x-109">2+</span></sup> imaging cell extraction and trace recon
 
 <div class="tabular"> <table id="TBL-1" class="tabular"
 
-><colgroup id="TBL-1-1g"><col id="TBL-1-1" /></colgroup><colgroup id="TBL-1-2g"><col id="TBL-1-2" /></colgroup><colgroup id="TBL-1-3g"><col id="TBL-1-3" /></colgroup><colgroup id="TBL-1-4g"><col id="TBL-1-4" /></colgroup><colgroup id="TBL-1-5g"><col id="TBL-1-5" /></colgroup><colgroup id="TBL-1-6g"><col id="TBL-1-6" /></colgroup><tr class="hline"><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td></tr><tr   style="vertical-align:baseline;" id="TBL-1-1-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-1" class="td11">Method                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-2" class="td11">Year</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-3"  class="td11">Type                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-4"  class="td11">Notes                                                                                                                                              </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-5"  class="td11">Source                                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-6"  class="td11">Website</td>
+><colgroup id="TBL-1-1g"><col id="TBL-1-1" /></colgroup><colgroup id="TBL-1-2g"><col id="TBL-1-2" /></colgroup><colgroup id="TBL-1-3g"><col id="TBL-1-3" /></colgroup><colgroup id="TBL-1-4g"><col id="TBL-1-4" /></colgroup><colgroup id="TBL-1-5g"><col id="TBL-1-5" /></colgroup><colgroup id="TBL-1-6g"><col id="TBL-1-6" /></colgroup><tr class="hline"><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td></tr><tr   style="vertical-align:baseline;" id="TBL-1-1-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-1"  class="td11">Method                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-2"  class="td11">Year</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-3"  class="td11">Type                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-4"  class="td11">Notes                                                                                                                                                               </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-5"  class="td11">Source                                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-6"  class="td11">Website</td>
 </tr><tr
 class="hline"><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td></tr><tr
  style="vertical-align:baseline;" id="TBL-1-2-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-2-1"
 class="td11">Turboreg                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-2-2"
 class="td11">1998</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-2-3"
 class="td11">Motion correction.       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-2-4"
-class="td11">Motion correction.                                                                                                                             </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-2-5"
+class="td11">Motion correction.                                                                                                                                              </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-2-5"
 class="td11"><a
 href="#Xthevenaz1998pyramid">Thevenaz et al.</a> <a
 href="#Xthevenaz1998pyramid">1998</a>                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-2-6"
@@ -47,7 +47,7 @@ class="td11"><a href='http://bigwww.epfl.ch/thevenaz/turboreg/' target='_blank'>
 class="td11">ROI                              </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-3-2"
 class="td11">2005</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-3-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-3-4"
-class="td11">Matrix multiplication; in some methods neuropil/background subtraction implemented.                                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-3-5"
+class="td11">Matrix multiplication; in some methods neuropil/background subtraction implemented.                                                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-3-5"
 class="td11">”<a
 href="#XKerr2005">Kerr et al.</a> <a
 href="#XKerr2005">2005</a>; <a
@@ -61,7 +61,7 @@ class="td11">-         </td>
 class="td11">CellProfiler                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-4-2"
 class="td11">2006</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-4-3"
 class="td11">Cell segmentation        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-4-4"
-class="td11">Multi-algorithm pipeline for cell segmentation.                                                                                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-4-5"
+class="td11">Multi-algorithm pipeline for cell segmentation.                                                                                                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-4-5"
 class="td11">”<a
 href="#Xcarpenter2006cellprofiler">Carpenter et al.</a> <a
 href="#Xcarpenter2006cellprofiler">2006</a>; <a
@@ -76,7 +76,7 @@ class="td11"><a href='https://cellprofiler.org' target='_blank'>https://cellprof
 class="td11">PCA-ICA                       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-5-2"
 class="td11">2009</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-5-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-5-4"
-class="td11">Cell extraction using principal component analysis (PCA) followed by independent component analysis (ICA).    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-5-5"
+class="td11">Cell extraction using principal component analysis (PCA) followed by independent component analysis (ICA).                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-5-5"
 class="td11"><a
 href="#Xmukamel2009automated">Mukamel et al.</a> <a
 href="#Xmukamel2009automated">2009</a>                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-5-6"
@@ -87,7 +87,7 @@ class="td11">”CIRF, calcium-behavior” </td><td  style="white-space:nowrap; t
 class="td11">2011</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-6-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-6-4"
 class="td11">Regressive model to obtain Ca<sup class="textsuperscript"><span
-class="rm-lmr-10x-x-109">2+</span></sup> signal based on behavior.                                                                       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-6-5"
+class="rm-lmr-10x-x-109">2+</span></sup> signal based on behavior.                                                                                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-6-5"
 class="td11"><a
 href="#XMiri2011">Miri et al.</a> <a
 href="#XMiri2011">2011</a>                                                                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-6-6"
@@ -97,7 +97,7 @@ class="td11">-         </td>
 class="td11">openBIS                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-7-2"
 class="td11">2011</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-7-3"
 class="td11">Data handling            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-7-4"
-class="td11">FAIR data management.                                                                                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-7-5"
+class="td11">FAIR data management.                                                                                                                                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-7-5"
 class="td11"><a
 href="#Xbauch2011openbis">Bauch et al.</a> <a
 href="#Xbauch2011openbis">2011</a>                                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-7-6"
@@ -108,7 +108,7 @@ class="td11"><a href='https://openbis.ch' target='_blank'>https://openbis.ch</a>
 class="td11">Automated ROI analysis   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-8-2"
 class="td11">2012</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-8-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-8-4"
-class="td11">Automatic ellipses based ROI detection.                                                                                                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-8-5"
+class="td11">Automatic ellipses based ROI detection.                                                                                                                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-8-5"
 class="td11"><a
 href="#XFrancis2012">Francis et al.</a> <a
 href="#XFrancis2012">2012</a>                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-8-6"
@@ -118,7 +118,7 @@ class="td11">-         </td>
 class="td11">OMERO                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-9-2"
 class="td11">2012</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-9-3"
 class="td11">Data handling            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-9-4"
-class="td11">Microscopy data handling.                                                                                                                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-9-5"
+class="td11">Microscopy data handling.                                                                                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-9-5"
 class="td11"><a
 href="#Xallan2012omero">Allan et al.</a> <a
 href="#Xallan2012omero">2012</a>                                                                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-9-6"
@@ -129,7 +129,7 @@ class="td11"><a href='https://www.openmicroscopy.org' target='_blank'>https://ww
 class="td11">ADINA                          </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-10-2"
 class="td11">2013</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-10-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-10-4"
-class="td11">Sparse dictionary learning.                                                                                                                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-10-5"
+class="td11">Sparse dictionary learning.                                                                                                                                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-10-5"
 class="td11"><a
 href="#Xdiego2013automated">Diego et al.</a> <a
 href="#Xdiego2013automated">2013</a>                                                                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-10-6"
@@ -139,7 +139,7 @@ class="td11">-         </td>
 class="td11">NMF                             </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-11-2"
 class="td11">2014</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-11-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-11-4"
-class="td11">Nonnegative matrix factorization (NMF).                                                                                               </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-11-5"
+class="td11">Nonnegative matrix factorization (NMF).                                                                                                                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-11-5"
 class="td11">”<a
 href="#Xpnevmatikakis2014structured">Pnevmatikakis et al.</a> <a
 href="#Xpnevmatikakis2014structured">2014</a>; <a
@@ -151,7 +151,7 @@ class="td11">-         </td>
 class="td11">SIMA                            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-12-2"
 class="td11">2014</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-12-3"
 class="td11">Analysis pipeline         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-12-4"
-class="td11">”Normalized cut segmentation, motion correction, etc.”                                                                             </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-12-5"
+class="td11">”Normalized cut segmentation, motion correction, etc.”                                                                                              </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-12-5"
 class="td11"><a
 href="#XKaifosh2014">Kaifosh et al.</a> <a
 href="#XKaifosh2014">2014</a>                                                                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-12-6"
@@ -162,7 +162,7 @@ class="td11"><a href='https://github.com/losonczylab/sima' target='_blank'>https
 class="td11">DataJoint                       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-13-2"
 class="td11">2015</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-13-3"
 class="td11">Data handling            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-13-4"
-class="td11">Schema for data handling.                                                                                                                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-13-5"
+class="td11">Schema for data handling.                                                                                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-13-5"
 class="td11"><a
 href="#Xyatsenko2015datajoint">Yatsenko et al.</a> <a
 href="#Xyatsenko2015datajoint">2015</a>                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-13-6"
@@ -173,7 +173,7 @@ class="td11"><a href='https://github.com/datajoint/datajoint-matlab' target='_bl
 class="td11">Suite2p                          </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-14-2"
 class="td11">2016</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-14-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-14-4"
-class="td11">Generative model along with GUIs.                                                                                                       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-14-5"
+class="td11">Generative model along with GUIs.                                                                                                                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-14-5"
 class="td11"><a
 href="#Xpachitariu2016suite2p">Pachitariu et al.</a> <a
 href="#Xpachitariu2016suite2p">2016</a>                                                                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-14-6"
@@ -183,7 +183,7 @@ class="td11">-         </td>
 class="td11">CNMF (CaImAn)            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-15-2"
 class="td11">2016</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-15-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-15-4"
-class="td11">Constrained NMF (CNMF).                                                                                                                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-15-5"
+class="td11">Constrained NMF (CNMF).                                                                                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-15-5"
 class="td11"><a
 href="#Xpnevmatikakis2016simultaneous">Pnevmatikakis et al.</a> <a
 href="#Xpnevmatikakis2016simultaneous">2016</a>                                                          </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-15-6"
@@ -194,7 +194,7 @@ class="td11"><a href='https://github.com/flatironinstitute/CaImAn-MATLAB' target
 class="td11">CNMF-E                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-16-2"
 class="td11">2016</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-16-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-16-4"
-class="td11">CNMF + background model to handle one-photon data.                                                                           </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-16-5"
+class="td11">CNMF + background model to handle one-photon data.                                                                                            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-16-5"
 class="td11">”<a
 href="#Xzhou2016efficient">Zhou et al.</a> <a
 href="#Xzhou2016efficient">2016</a>, <a
@@ -206,7 +206,7 @@ class="td11"><a href='https://github.com/zhoupc/CNMF_E' target='_blank'>https://
 class="td11">Apthorpe CNN                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-17-2"
 class="td11">2016</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-17-3"
 class="td11">Cell segmentation        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-17-4"
-class="td11">Convolutional neural network (CNN).                                                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-17-5"
+class="td11">Convolutional neural network (CNN).                                                                                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-17-5"
 class="td11"><a
 href="#Xapthorpe2016automatic">Apthorpe et al.</a> <a
 href="#Xapthorpe2016automatic">2016</a>                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-17-6"
@@ -216,7 +216,7 @@ class="td11">-         </td>
 class="td11">moco                             </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-18-2"
 class="td11">2016</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-18-3"
 class="td11">Motion correction        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-18-4"
-class="td11">Fourier-transform based motion correction.                                                                                             </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-18-5"
+class="td11">Fourier-transform based motion correction.                                                                                                              </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-18-5"
 class="td11"><a
 href="#Xdubbs2016moco">Dubbs et al.</a> <a
 href="#Xdubbs2016moco">2016</a>                                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-18-6"
@@ -238,7 +238,7 @@ class="td11">—<span
 class="rm-lmbx-12">CELLMax </span>(conference)</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-20-2"
 class="td11">2017</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-20-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-20-4"
-class="td11">Maximum likelihood.                                                                                                                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-20-5"
+class="td11">Maximum likelihood.                                                                                                                                           </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-20-5"
 class="td11">”<a
 href="#XAhanonu2018sfnposter">Ahanonu et al.</a> <a
 href="#XAhanonu2018sfnposter">2018</a>, <a
@@ -249,7 +249,7 @@ class="td11">-         </td>
 class="td11">sc-CNMF                       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-21-2"
 class="td11">2017</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-21-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-21-4"
-class="td11">CNMF + GMM/RNN seed cleansing.                                                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-21-5"
+class="td11">CNMF + GMM/RNN seed cleansing.                                                                                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-21-5"
 class="td11"><a
 href="#Xlu2017seeds">Lu et al.</a> <a
 href="#Xlu2017seeds">2017</a>                                                                          </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-21-6"
@@ -259,7 +259,7 @@ class="td11">-         </td>
 class="td11">OASIS                           </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-22-2"
 class="td11">2017</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-22-3"
 class="td11">Trace analysis            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-22-4"
-class="td11">Generalized pool adjacent violators algorithm.                                                                                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-22-5"
+class="td11">Generalized pool adjacent violators algorithm.                                                                                                          </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-22-5"
 class="td11"><a
 href="#Xfriedrich2017fast">Friedrich et al.</a> <a
 href="#Xfriedrich2017fast">2017</a>                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-22-6"
@@ -270,7 +270,7 @@ class="td11"><a href='https://github.com/zhoupc/OASIS_matlab' target='_blank'>ht
 class="td11">ABLE                           </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-23-2"
 class="td11">2017</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-23-3"
 class="td11">Cell segmentation        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-23-4"
-class="td11">Active contours.                                                                                                                                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-23-5"
+class="td11">Active contours.                                                                                                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-23-5"
 class="td11"><a
 href="#Xreynolds2017able">Reynolds et al.</a> <a
 href="#Xreynolds2017able">2017</a>                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-23-6"
@@ -281,7 +281,7 @@ class="td11"><a href='https://github.com/StephanieRey/ABLE' target='_blank'>http
 class="td11">SCALPEL                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-24-2"
 class="td11">2017</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-24-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-24-4"
-class="td11">”Dictionary learning, dissimilarity, and clustering.”                                                                                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-24-5"
+class="td11">”Dictionary learning, dissimilarity, and clustering.”                                                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-24-5"
 class="td11"><a
 href="#Xpetersen2017scalpel">Petersen et al.</a> <a
 href="#Xpetersen2017scalpel">2017</a>                                                                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-24-6"
@@ -292,7 +292,7 @@ class="td11"><a href='https://cran.r-project.org/web/packages/scalpel/index.html
 class="td11">HNCcorr                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-25-2"
 class="td11">2017</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-25-3"
 class="td11">Cell segmentation        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-25-4"
-class="td11">Combinatorial optimization (correlation space analysis).                                                                            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-25-5"
+class="td11">Combinatorial optimization (correlation space analysis).                                                                                             </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-25-5"
 class="td11"><a
 href="#Xspaen2017hnccorr">Spaen et al.</a> <a
 href="#Xspaen2017hnccorr">2017</a>                                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-25-6"
@@ -302,9 +302,9 @@ class="td11"><a href='https://github.com/hochbaumGroup/HNCcorr' target='_blank'>
  style="vertical-align:baseline;" id="TBL-1-26-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-26-1"
 class="td11">OnACID                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-26-2"
 class="td11">2017</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-26-3"
-class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-26-4"
+class="td11">Cell extraction (online)</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-26-4"
 class="td11">NMF variant for online Ca<sup class="textsuperscript"><span
-class="rm-lmr-10x-x-109">2+</span></sup> imaging processing.                                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-26-5"
+class="rm-lmr-10x-x-109">2+</span></sup> imaging processing.                                                                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-26-5"
 class="td11"><a
 href="#Xgiovannucci2017onacid">Giovannucci et al.</a> <a
 href="#Xgiovannucci2017onacid">2017</a>                                                             </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-26-6"
@@ -314,7 +314,7 @@ class="td11">-         </td>
 class="td11">EXTRACT                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-27-2"
 class="td11">2017</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-27-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-27-4"
-class="td11">Robust statistical estimation.                                                                                                               </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-27-5"
+class="td11">Robust statistical estimation.                                                                                                                                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-27-5"
 class="td11"><a
 href="#Xinan2017robust">Inan et al.</a> <a
 href="#Xinan2017robust">2017</a>                                                                       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-27-6"
@@ -333,7 +333,7 @@ class="td11"><a href='https://github.com/orlandi/netcal' target='_blank'>https:/
 class="td11">NoRMCorre                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-29-2"
 class="td11">2017</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-29-3"
 class="td11">Motion correction.       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-29-4"
-class="td11">Piecewise rigid motion correction.                                                                                                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-29-5"
+class="td11">Piecewise rigid motion correction.                                                                                                                          </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-29-5"
 class="td11"><a
 href="#Xpnevmatikakis2017normcorre">Pnevmatikakis and Giovannucci</a> <a
 href="#Xpnevmatikakis2017normcorre">2017</a>                                           </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-29-6"
@@ -344,7 +344,7 @@ class="td11"><a href='https://github.com/simonsfoundation/NoRMCorre' target='_bl
 class="td11">CellReg                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-30-2"
 class="td11">2017</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-30-3"
 class="td11">Cross-session alignment</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-30-4"
-class="td11">Alignment of cells across days using a probabilistic approach.                                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-30-5"
+class="td11">Alignment of cells across days using a probabilistic approach.                                                                                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-30-5"
 class="td11"><a
 href="#Xsheintuch2017tracking">Sheintuch et al.</a> <a
 href="#Xsheintuch2017tracking">2017</a>                                                                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-30-6"
@@ -355,7 +355,7 @@ class="td11"><a href='https://github.com/zivlab/CellReg' target='_blank'>https:/
 class="td11">NeuroSeg                       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-31-2"
 class="td11">2017</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-31-3"
 class="td11">Cell segmentation        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-31-4"
-class="td11">Filtering and seed/clustering based cell segmentation.                                                                               </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-31-5"
+class="td11">Filtering and seed/clustering based cell segmentation.                                                                                                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-31-5"
 class="td11"><a
 href="#Xguan2018neuroseg">Guan et al.</a> <a
 href="#Xguan2018neuroseg">2018</a>                                                                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-31-6"
@@ -366,7 +366,7 @@ class="td11"><a href='https://github.com/baidatong/NeuroSeg' target='_blank'>htt
 class="td11">CNMF-E+                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-32-2"
 class="td11">2017</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-32-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-32-4"
-class="td11">Shrinkage estimation to improve CNMF-E initialization.                                                                           </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-32-5"
+class="td11">Shrinkage estimation to improve CNMF-E initialization.                                                                                            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-32-5"
 class="td11"><a
 href="#Xtakekawa2017automatic">Takekawa et al.</a> <a
 href="#Xtakekawa2017automatic">2017</a>                                                                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-32-6"
@@ -376,7 +376,7 @@ class="td11">-         </td>
 class="td11">Toolbox-Romano             </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-33-2"
 class="td11">2017</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-33-3"
 class="td11">Analysis pipeline         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-33-4"
-class="td11">Full analysis pipeline with ROI-based segmentation                                                                                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-33-5"
+class="td11">Full analysis pipeline with ROI-based segmentation                                                                                                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-33-5"
 class="td11"><a
 href="#Xromano2017integrated">Romano et al.</a> <a
 href="#Xromano2017integrated">2017</a>                                                                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-33-6"
@@ -387,7 +387,7 @@ class="td11"><a href='https://github.com/zebrain-lab/Toolbox-Romano-et-al' targe
 class="td11">SamuROI                       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-34-2"
 class="td11">2017</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-34-3"
 class="td11">Analysis GUI             </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-34-4"
-class="td11">GUI for data visualization                                                                                                                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-34-5"
+class="td11">GUI for data visualization                                                                                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-34-5"
 class="td11"><a
 href="#Xrueckl2017samuroi">Rueckl et al.</a> <a
 href="#Xrueckl2017samuroi">2017</a>                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-34-6"
@@ -398,7 +398,7 @@ class="td11"><a href='https://github.com/samuroi/SamuROI' target='_blank'>https:
 class="td11">KNIME                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-35-2"
 class="td11">2017</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-35-3"
 class="td11">Analysis pipeline         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-35-4"
-class="td11">Workflow manager for data analysis.                                                                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-35-5"
+class="td11">Workflow manager for data analysis.                                                                                                                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-35-5"
 class="td11"><a
 href="#Xfillbrunn2017knime">Fillbrunn et al.</a> <a
 href="#Xfillbrunn2017knime">2017</a>                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-35-6"
@@ -410,7 +410,7 @@ class="td11">—<span
 class="rm-lmbx-12">CLEAN </span>(conference)    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-36-2"
 class="td11">2018</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-36-3"
 class="td11">Cell sorting                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-36-4"
-class="td11">Machine learning based cell sorting of cell extraction outputs.                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-36-5"
+class="td11">Machine learning based cell sorting of cell extraction outputs.                                                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-36-5"
 class="td11"><a
 href="#XAhanonu2018sfnposter">Ahanonu et al.</a> <a
 href="#XAhanonu2018sfnposter">2018</a>                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-36-6"
@@ -420,7 +420,7 @@ class="td11">-         </td>
 class="td11">FISSA                           </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-37-2"
 class="td11">2018</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-37-3"
 class="td11">Trace analysis            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-37-4"
-class="td11">Neuropil decontamination using local region around cell.                                                                           </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-37-5"
+class="td11">Neuropil decontamination using local region around cell.                                                                                            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-37-5"
 class="td11"><a
 href="#Xkeemink2018fissa">Keemink et al.</a> <a
 href="#Xkeemink2018fissa">2018</a>                                                                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-37-6"
@@ -431,7 +431,7 @@ class="td11"><a href='https://github.com/rochefort-lab/fissa' target='_blank'>ht
 class="td11">LSSC                            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-38-2"
 class="td11">2018</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-38-3"
 class="td11">Cell segmentation        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-38-4"
-class="td11">Spectral clustering; variant to find local subset of eigenvectors.                                                                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-38-5"
+class="td11">Spectral clustering; variant to find local subset of eigenvectors.                                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-38-5"
 class="td11"><a
 href="#Xmishne2018automated">Mishne et al.</a> <a
 href="#Xmishne2018automated">2018</a>                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-38-6"
@@ -441,7 +441,7 @@ class="td11">-         </td>
 class="td11">PMD - PCA                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-39-2"
 class="td11">2018</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-39-3"
 class="td11">Denoising                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-39-4"
-class="td11">Spatially-localized penalized matrix decomposition for denoising; compression; and improved demixing.              </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-39-5"
+class="td11">Spatially-localized penalized matrix decomposition for denoising; compression; and improved demixing.                               </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-39-5"
 class="td11"><a
 href="#Xbuchanan2018penalized">Buchanan et al.</a> <a
 href="#Xbuchanan2018penalized">2018</a>                                                                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-39-6"
@@ -452,7 +452,7 @@ class="td11"><a href='https://github.com/paninski-lab/funimag' target='_blank'>h
 class="td11">MIN1PIPE                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-40-2"
 class="td11">2018</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-40-3"
 class="td11">Analysis pipeline         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-40-4"
-class="td11">Pre-processing + CNMF.                                                                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-40-5"
+class="td11">Pre-processing + CNMF.                                                                                                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-40-5"
 class="td11"><a
 href="#XLu2018min1pipe">Lu et al.</a> <a
 href="#XLu2018min1pipe">2018</a>                                                                          </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-40-6"
@@ -462,7 +462,7 @@ class="td11">-         </td>
 class="td11">CaImAn (preprint)           </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-41-2"
 class="td11">2018</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-41-3"
 class="td11">Analysis pipeline         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-41-4"
-class="td11">CNMF + several other processing tools.                                                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-41-5"
+class="td11">CNMF + several other processing tools.                                                                                                                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-41-5"
 class="td11"><a
 href="#XGiovannucci2018">Giovannucci et al.</a> <a
 href="#XGiovannucci2018">2018</a>                                                             </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-41-6"
@@ -472,7 +472,7 @@ class="td11">-         </td>
 class="td11">SEUDO (preprint)           </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-42-2"
 class="td11">2018</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-42-3"
 class="td11">Trace analysis            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-42-4"
-class="td11">Mixture of Gaussians + maximum likelihood; post-hoc activity trace correction.                                            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-42-5"
+class="td11">Mixture of Gaussians + maximum likelihood; post-hoc activity trace correction.                                                             </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-42-5"
 class="td11"><a
 href="#Xgauthier2018detecting">Gauthier et al.</a> <a
 href="#Xgauthier2018detecting">2018</a>                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-42-6"
@@ -483,7 +483,7 @@ class="td11">—<span
 class="rm-lmbx-12">CIAtah                   </span></td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-43-2"
 class="td11">2019</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-43-3"
 class="td11">Analysis pipeline         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-43-4"
-class="td11">”1P and 2P Imaging analysis pipeline supporting PCA-ICA, CNMF, CELLMax, EXTRACT, etc.”                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-43-5"
+class="td11">”1P and 2P Imaging analysis pipeline supporting PCA-ICA, CNMF, CELLMax, EXTRACT, etc.”                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-43-5"
 class="td11"><a
 href="#Xcorder2019amygdalar">Corder et al.</a> <a
 href="#Xcorder2019amygdalar">2019</a>                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-43-6"
@@ -494,7 +494,7 @@ class="td11"><a href='https://github.com/bahanonu/ciatah' target='_blank'>https:
 class="td11">NAOMi (bioRxiv)            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-44-2"
 class="td11">2019</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-44-3"
 class="td11">Simulator                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-44-4"
-class="td11">Generative model for creating simulated calcium imaging movies.                                                               </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-44-5"
+class="td11">Generative model for creating simulated calcium imaging movies.                                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-44-5"
 class="td11"><a
 href="#Xcharles2019neural">Charles et al.</a> <a
 href="#Xcharles2019neural">2019</a>                                                                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-44-6"
@@ -504,7 +504,7 @@ class="td11">-         </td>
 class="td11">CALIMA                       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-45-2"
 class="td11">2019</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-45-3"
 class="td11">Analysis pipeline         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-45-4"
-class="td11">Calcium imaging analysis GUI.                                                                                                            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-45-5"
+class="td11">Calcium imaging analysis GUI.                                                                                                                             </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-45-5"
 class="td11"><a
 href="#Xradstake2019calima">Radstake et al.</a> <a
 href="#Xradstake2019calima">2019</a>                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-45-6"
@@ -514,7 +514,7 @@ class="td11">-         </td>
 class="td11">STNeuroNet                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-46-2"
 class="td11">2019</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-46-3"
 class="td11">Cell segmentation        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-46-4"
-class="td11">Convolutional neural network to detect and segment cells.                                                                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-46-5"
+class="td11">Convolutional neural network to detect and segment cells.                                                                                          </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-46-5"
 class="td11"><a
 href="#Xsoltanian2019fast">Soltanian-Zadeh et al.</a> <a
 href="#Xsoltanian2019fast">2019</a>                                                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-46-6"
@@ -524,7 +524,7 @@ class="td11">-         </td>
 class="td11">AQuA                           </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-47-2"
 class="td11">2019</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-47-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-47-4"
-class="td11">Astrocyte imaging focused. Non-ROI cluster and propagation based detection of events.                                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-47-5"
+class="td11">Astrocyte imaging focused. Non-ROI cluster and propagation based detection of events.                                                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-47-5"
 class="td11"><a
 href="#Xwang2019accurate">Wang et al.</a> <a
 href="#Xwang2019accurate">2019</a>                                                                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-47-6"
@@ -534,7 +534,7 @@ class="td11">-         </td>
 class="td11">CaImAn                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-48-2"
 class="td11">2019</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-48-3"
 class="td11">Analysis pipeline         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-48-4"
-class="td11">CNMF + several other processing tools.                                                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-48-5"
+class="td11">CNMF + several other processing tools.                                                                                                                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-48-5"
 class="td11"><a
 href="#Xgiovannucci2019caiman">Giovannucci et al.</a> <a
 href="#Xgiovannucci2019caiman">2019</a>                                                             </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-48-6"
@@ -545,7 +545,7 @@ class="td11"><a href='https://github.com/flatironinstitute/CaImAn' target='_blan
 class="td11">DL+RWL1-SF                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-49-2"
 class="td11">2019</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-49-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-49-4"
-class="td11">Dictionary learning and spatial correlation based cell extraction.                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-49-5"
+class="td11">Dictionary learning and spatial correlation based cell extraction.                                                                                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-49-5"
 class="td11"><a
 href="#Xmishne2019learning">Mishne and Charles</a> <a
 href="#Xmishne2019learning">2019</a>                                                           </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-49-6"
@@ -555,7 +555,7 @@ class="td11">-         </td>
 class="td11">marked point processes     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-50-2"
 class="td11">2020</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-50-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-50-4"
-class="td11">”Probabilistic generative model, specifically a marked point process, to extract activity traces.”                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-50-5"
+class="td11">”Probabilistic generative model, specifically a marked point process, to extract activity traces.”                                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-50-5"
 class="td11"><a
 href="#Xshibue2020deconvolution">Shibue and Komaki</a> <a
 href="#Xshibue2020deconvolution">2020</a>                                                            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-50-6"
@@ -565,7 +565,7 @@ class="td11">-         </td>
 class="td11">LocaNMF                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-51-2"
 class="td11">2020</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-51-3"
 class="td11">Region extraction        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-51-4"
-class="td11">Localized semi-nonnegative matrix factorization for extracting active regions.                                                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-51-5"
+class="td11">Localized semi-nonnegative matrix factorization for extracting active regions.                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-51-5"
 class="td11"><a
 href="#Xsaxena2020localized">Saxena et al.</a> <a
 href="#Xsaxena2020localized">2020</a>                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-51-6"
@@ -576,7 +576,7 @@ class="td11"><a href='https://github.com/ikinsella/locaNMF' target='_blank'>http
 class="td11">EZcalcium                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-52-2"
 class="td11">2020</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-52-3"
 class="td11">Analysis pipeline         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-52-4"
-class="td11">Calcium imaging analysis toolbox.                                                                                                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-52-5"
+class="td11">Calcium imaging analysis toolbox.                                                                                                                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-52-5"
 class="td11"><a
 href="#Xcantu2020ezcalcium">Cantu et al.</a> <a
 href="#Xcantu2020ezcalcium">2020</a>                                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-52-6"
@@ -586,8 +586,8 @@ class="td11"><a href='https://github.com/porteralab/EZcalcium' target='_blank'>h
  style="vertical-align:baseline;" id="TBL-1-53-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-53-1"
 class="td11">OnACID-E + ring CNN    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-53-2"
 class="td11">2020</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-53-3"
-class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-53-4"
-class="td11">OnACID for miniscope and new ring CNN background model to improve accuracy.                                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-53-5"
+class="td11">Cell extraction (online)</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-53-4"
+class="td11">OnACID for miniscope and new ring CNN background model to improve accuracy.                                                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-53-5"
 class="td11"><a
 href="#Xfriedrich2020online">Friedrich et al.</a> <a
 href="#Xfriedrich2020online">2020</a>                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-53-6"
@@ -598,7 +598,7 @@ class="td11"><a href='https://github.com/flatironinstitute/CaImAn' target='_blan
 class="td11">Auto CNMF-E sorting      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-54-2"
 class="td11">2020</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-54-3"
 class="td11">Cell sorting                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-54-4"
-class="td11">Machine learning (AutoML) based curation of CNMF-E outputs.                                                                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-54-5"
+class="td11">Machine learning (AutoML) based curation of CNMF-E outputs.                                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-54-5"
 class="td11">”<a
 href="#Xtran2020automated">Tran et al.</a> <a
 href="#Xtran2020automated">2020a</a>,<a
@@ -610,7 +610,7 @@ class="td11"><a href='https://github.com/jf-lab/cnmfe-reviewer' target='_blank'>
 class="td11">DeepInterpolation            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-55-2"
 class="td11">2020</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-55-3"
 class="td11">Denoising                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-55-4"
-class="td11">Encoder-decoder architecture with 2D conv. to denoise imaging data.                                                          </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-55-5"
+class="td11">Encoder-decoder architecture with 2D conv. to denoise imaging data.                                                                           </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-55-5"
 class="td11"><a
 href="#Xlecoq2020removing">Lecoq et al.</a> <a
 href="#Xlecoq2020removing">2020</a>                                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-55-6"
@@ -621,7 +621,7 @@ class="td11"><a href='https://github.com/AllenInstitute/deepinterpolation' targe
 class="td11">BIAFLOWS                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-56-2"
 class="td11">2020</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-56-3"
 class="td11">Benchmarking            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-56-4"
-class="td11">Framework for benchmarking imaging analysis workflows.                                                                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-56-5"
+class="td11">Framework for benchmarking imaging analysis workflows.                                                                                           </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-56-5"
 class="td11"><a
 href="#Xrubens2020biaflows">Rubens et al.</a> <a
 href="#Xrubens2020biaflows">2020</a>                                                                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-56-6"
@@ -629,139 +629,185 @@ class="td11"><a href='https://biaflows.neubias.org' target='_blank'>https://biaf
  id="dx1-34"></a>       </td>
 </tr><tr
  style="vertical-align:baseline;" id="TBL-1-57-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-57-1"
-class="td11">Cellpose                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-57-2"
-class="td11">2021</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-57-3"
-class="td11">Cell segmentation        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-57-4"
-class="td11">Neural network and gradient-based cell segmentation.                                                                               </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-57-5"
-class="td11"><a
-href="#Xstringer2021cellpose">Stringer et al.</a> <a
-href="#Xstringer2021cellpose">2021</a>                                                                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-57-6"
-class="td11"><a href='https://github.com/mouseland/cellpose' target='_blank'>https://github.com/mouseland/cellpose</a><a
+class="td11">FIBSI                            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-57-2"
+class="td11">2020</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-57-3"
+class="td11">Trace analysis            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-57-4"
+class="td11">Extension of Ramer-Douglas-Peucker algorithm to identify baseline that is used for signal detection.                                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-57-5"
+class="td11">”<a
+href="#Xcassidy2020frequency">Cassidy et al.</a> <a
+href="#Xcassidy2020frequency">2020</a>; <a
+href="#Xalles2021chronic">Alles et al.</a> <a
+href="#Xalles2021chronic">2021</a>”                                       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-57-6"
+class="td11"><a href='https://github.com/rmcassidy/FIBSI_program' target='_blank'>https://github.com/rmcassidy/FIBSI_program</a><a
  id="dx1-35"></a>       </td>
 </tr><tr
  style="vertical-align:baseline;" id="TBL-1-58-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-58-1"
-class="td11">NAOMi                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-58-2"
+class="td11">Cellpose                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-58-2"
 class="td11">2021</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-58-3"
-class="td11">Simulator                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-58-4"
-class="td11">Detailed model simulation for benchmarking calcium imaging algorithms.                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-58-5"
+class="td11">Cell segmentation        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-58-4"
+class="td11">Neural network and gradient-based cell segmentation.                                                                                                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-58-5"
 class="td11"><a
-href="#Xsong2021neural">Song et al.</a> <a
-href="#Xsong2021neural">2021</a>                                                                       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-58-6"
-class="td11"><a href='https://bitbucket.org/adamshch/naomi_sim/src/master/' target='_blank'>https://bitbucket.org/adamshch/naomi_sim/src/master/</a><a
+href="#Xstringer2021cellpose">Stringer et al.</a> <a
+href="#Xstringer2021cellpose">2021</a>                                                                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-58-6"
+class="td11"><a href='https://github.com/mouseland/cellpose' target='_blank'>https://github.com/mouseland/cellpose</a><a
  id="dx1-36"></a>       </td>
 </tr><tr
  style="vertical-align:baseline;" id="TBL-1-59-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-59-1"
-class="td11">OnACID-E + ring CNN    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-59-2"
+class="td11">NAOMi                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-59-2"
 class="td11">2021</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-59-3"
-class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-59-4"
-class="td11">OnACID for 1P data and ring CNN background model.                                                                            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-59-5"
+class="td11">Simulator                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-59-4"
+class="td11">Detailed model simulation for benchmarking calcium imaging algorithms.                                                                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-59-5"
 class="td11"><a
-href="#Xfriedrich2021online">Friedrich et al.</a> <a
-href="#Xfriedrich2021online">2021</a>                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-59-6"
-class="td11"><a href='https://github.com/flatironinstitute/CaImAn' target='_blank'>https://github.com/flatironinstitute/CaImAn</a><a
+href="#Xsong2021neural">Song et al.</a> <a
+href="#Xsong2021neural">2021</a>                                                                       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-59-6"
+class="td11"><a href='https://bitbucket.org/adamshch/naomi_sim/src/master/' target='_blank'>https://bitbucket.org/adamshch/naomi_sim/src/master/</a><a
  id="dx1-37"></a>       </td>
 </tr><tr
  style="vertical-align:baseline;" id="TBL-1-60-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-60-1"
-class="td11">EXTRACT                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-60-2"
+class="td11">OnACID-E + ring CNN    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-60-2"
 class="td11">2021</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-60-3"
-class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-60-4"
-class="td11">Robust statistics based cell extraction.                                                                                                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-60-5"
+class="td11">Cell extraction (online)</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-60-4"
+class="td11">OnACID for 1P data and ring CNN background model.                                                                                             </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-60-5"
 class="td11"><a
-href="#Xinan2021fast">Inan et al.</a> <a
-href="#Xinan2021fast">2021</a>                                                                       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-60-6"
-class="td11"><a href='https://github.com/schnitzer-lab/EXTRACT-public' target='_blank'>https://github.com/schnitzer-lab/EXTRACT-public</a><a
+href="#Xfriedrich2021online">Friedrich et al.</a> <a
+href="#Xfriedrich2021online">2021</a>                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-60-6"
+class="td11"><a href='https://github.com/flatironinstitute/CaImAn' target='_blank'>https://github.com/flatironinstitute/CaImAn</a><a
  id="dx1-38"></a>       </td>
 </tr><tr
  style="vertical-align:baseline;" id="TBL-1-61-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-61-1"
-class="td11">Minian                          </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-61-2"
+class="td11">EXTRACT                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-61-2"
 class="td11">2021</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-61-3"
-class="td11">Analysis pipeline         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-61-4"
-class="td11">”Imaging analysis pipeline with CNMF for cell extraction, in part using Jupyter notebooks with GUI elements.”  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-61-5"
+class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-61-4"
+class="td11">Robust statistics based cell extraction.                                                                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-61-5"
 class="td11"><a
-href="#Xdong2021minian">Dong et al.</a> <a
-href="#Xdong2021minian">2021</a>                                                                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-61-6"
-class="td11"><a href='https://github.com/DeniseCaiLab/minian' target='_blank'>https://github.com/DeniseCaiLab/minian</a><a
+href="#Xinan2021fast">Inan et al.</a> <a
+href="#Xinan2021fast">2021</a>                                                                       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-61-6"
+class="td11"><a href='https://github.com/schnitzer-lab/EXTRACT-public' target='_blank'>https://github.com/schnitzer-lab/EXTRACT-public</a><a
  id="dx1-39"></a>       </td>
 </tr><tr
  style="vertical-align:baseline;" id="TBL-1-62-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-62-1"
-class="td11">Mesmerize                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-62-2"
+class="td11">Minian                          </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-62-2"
 class="td11">2021</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-62-3"
 class="td11">Analysis pipeline         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-62-4"
-class="td11">”Imaging analysis platform with CaImAn for cell extraction, import support for other cell extraction algorithms.”</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-62-5"
+class="td11">”Imaging analysis pipeline with CNMF for cell extraction, in part using Jupyter notebooks with GUI elements.”                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-62-5"
 class="td11"><a
-href="#Xkolar2021mesmerize">Kolar et al.</a> <a
-href="#Xkolar2021mesmerize">2021</a>                                                                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-62-6"
-class="td11"><a href='https://github.com/kushalkolar/MESmerize' target='_blank'>https://github.com/kushalkolar/MESmerize</a><a
+href="#Xdong2021minian">Dong et al.</a> <a
+href="#Xdong2021minian">2021</a>                                                                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-62-6"
+class="td11"><a href='https://github.com/DeniseCaiLab/minian' target='_blank'>https://github.com/DeniseCaiLab/minian</a><a
  id="dx1-40"></a>       </td>
 </tr><tr
  style="vertical-align:baseline;" id="TBL-1-63-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-63-1"
-class="td11">DeepInterpolation            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-63-2"
+class="td11">Mesmerize                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-63-2"
 class="td11">2021</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-63-3"
-class="td11">Denoising                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-63-4"
-class="td11">Encoder-decoder architecture with 2D conv. to denoise imaging data.                                                          </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-63-5"
+class="td11">Analysis pipeline         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-63-4"
+class="td11">”Imaging analysis platform with CaImAn for cell extraction, import support for other cell extraction algorithms.”                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-63-5"
 class="td11"><a
-href="#Xlecoq2021removing">Lecoq et al.</a> <a
-href="#Xlecoq2021removing">2021</a>                                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-63-6"
-class="td11"><a href='https://github.com/AllenInstitute/deepinterpolation' target='_blank'>https://github.com/AllenInstitute/deepinterpolation</a><a
+href="#Xkolar2021mesmerize">Kolar et al.</a> <a
+href="#Xkolar2021mesmerize">2021</a>                                                                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-63-6"
+class="td11"><a href='https://github.com/kushalkolar/MESmerize' target='_blank'>https://github.com/kushalkolar/MESmerize</a><a
  id="dx1-41"></a>       </td>
 </tr><tr
  style="vertical-align:baseline;" id="TBL-1-64-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-64-1"
-class="td11">BEAR                           </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-64-2"
+class="td11">DeepInterpolation            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-64-2"
 class="td11">2021</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-64-3"
-class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-64-4"
-class="td11">Neural network approximation of PCA for cell extraction.                                                                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-64-5"
+class="td11">Denoising                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-64-4"
+class="td11">Encoder-decoder architecture with 2D conv. to denoise imaging data.                                                                           </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-64-5"
 class="td11"><a
-href="#Xhan2021efficient">Han et al.</a> <a
-href="#Xhan2021efficient">2021</a>                                                                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-64-6"
-class="td11"><a href='https://github.com/NICALab/BEAR' target='_blank'>https://github.com/NICALab/BEAR</a><a
+href="#Xlecoq2021removing">Lecoq et al.</a> <a
+href="#Xlecoq2021removing">2021</a>                                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-64-6"
+class="td11"><a href='https://github.com/AllenInstitute/deepinterpolation' target='_blank'>https://github.com/AllenInstitute/deepinterpolation</a><a
  id="dx1-42"></a>       </td>
 </tr><tr
  style="vertical-align:baseline;" id="TBL-1-65-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-65-1"
-class="td11">CaPTure                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-65-2"
+class="td11">BEAR                           </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-65-2"
 class="td11">2021</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-65-3"
 class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-65-4"
-class="td11">ROI segmentation and activity extraction.                                                                                              </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-65-5"
+class="td11">Neural network approximation of PCA for cell extraction.                                                                                          </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-65-5"
 class="td11"><a
-href="#Xtippani2021capture">Tippani et al.</a> <a
-href="#Xtippani2021capture">2021</a>                                                                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-65-6"
-class="td11"><a href='https://github.com/LieberInstitute/CaPTure' target='_blank'>https://github.com/LieberInstitute/CaPTure</a><a
+href="#Xhan2021efficient">Han et al.</a> <a
+href="#Xhan2021efficient">2021</a>                                                                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-65-6"
+class="td11"><a href='https://github.com/NICALab/BEAR' target='_blank'>https://github.com/NICALab/BEAR</a><a
  id="dx1-43"></a>       </td>
 </tr><tr
  style="vertical-align:baseline;" id="TBL-1-66-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-66-1"
-class="td11">CASCADE                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-66-2"
+class="td11">CaPTure                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-66-2"
 class="td11">2021</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-66-3"
-class="td11">Trace analysis            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-66-4"
-class="td11">Spike inference based on dual ephys/calcium imaging recordings.                                                                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-66-5"
+class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-66-4"
+class="td11">ROI segmentation and activity extraction.                                                                                                               </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-66-5"
 class="td11"><a
-href="#Xrupprecht2021database">Rupprecht et al.</a> <a
-href="#Xrupprecht2021database">2021</a>                                                               </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-66-6"
-class="td11"><a href='https://github.com/HelmchenLabSoftware/Cascade' target='_blank'>https://github.com/HelmchenLabSoftware/Cascade</a><a
+href="#Xtippani2021capture">Tippani et al.</a> <a
+href="#Xtippani2021capture">2021</a>                                                                   </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-66-6"
+class="td11"><a href='https://github.com/LieberInstitute/CaPTure' target='_blank'>https://github.com/LieberInstitute/CaPTure</a><a
  id="dx1-44"></a>       </td>
 </tr><tr
  style="vertical-align:baseline;" id="TBL-1-67-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-67-1"
-class="td11">VolPy                            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-67-2"
+class="td11">CASCADE                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-67-2"
 class="td11">2021</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-67-3"
-class="td11">Analysis pipeline         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-67-4"
-class="td11">Voltage imaging analysis pipeline integrated into CaImAn.                                                                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-67-5"
+class="td11">Trace analysis            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-67-4"
+class="td11">Spike inference based on dual ephys/calcium imaging recordings.                                                                                 </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-67-5"
 class="td11"><a
-href="#Xcai2021volpy">Cai et al.</a> <a
-href="#Xcai2021volpy">2021</a>                                                                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-67-6"
-class="td11"><a href='https://github.com/flatironinstitute/CaImAn' target='_blank'>https://github.com/flatironinstitute/CaImAn</a><a
+href="#Xrupprecht2021database">Rupprecht et al.</a> <a
+href="#Xrupprecht2021database">2021</a>                                                               </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-67-6"
+class="td11"><a href='https://github.com/HelmchenLabSoftware/Cascade' target='_blank'>https://github.com/HelmchenLabSoftware/Cascade</a><a
  id="dx1-45"></a>       </td>
 </tr><tr
  style="vertical-align:baseline;" id="TBL-1-68-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-68-1"
-class="td11">DeepCAD                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-68-2"
+class="td11">VolPy                            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-68-2"
 class="td11">2021</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-68-3"
-class="td11">Denoising                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-68-4"
-class="td11">Deep neural network based denoising.                                                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-68-5"
+class="td11">Analysis pipeline         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-68-4"
+class="td11">Voltage imaging analysis pipeline integrated into CaImAn.                                                                                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-68-5"
 class="td11"><a
-href="#Xli2021reinforcing">Li et al.</a> <a
-href="#Xli2021reinforcing">2021</a>                                                                          </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-68-6"
-class="td11"><a href='https://github.com/cabooster/DeepCAD-RT' target='_blank'>https://github.com/cabooster/DeepCAD-RT</a><a
+href="#Xcai2021volpy">Cai et al.</a> <a
+href="#Xcai2021volpy">2021</a>                                                                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-68-6"
+class="td11"><a href='https://github.com/flatironinstitute/CaImAn' target='_blank'>https://github.com/flatironinstitute/CaImAn</a><a
  id="dx1-46"></a>       </td>
 </tr><tr
-class="hline"><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td></tr><tr
  style="vertical-align:baseline;" id="TBL-1-69-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-69-1"
+class="td11">DeepCAD                      </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-69-2"
+class="td11">2021</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-69-3"
+class="td11">Denoising                  </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-69-4"
+class="td11">Deep neural network based denoising.                                                                                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-69-5"
+class="td11"><a
+href="#Xli2021reinforcing">Li et al.</a> <a
+href="#Xli2021reinforcing">2021</a>                                                                          </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-69-6"
+class="td11"><a href='https://github.com/cabooster/DeepCAD-RT' target='_blank'>https://github.com/cabooster/DeepCAD-RT</a><a
+ id="dx1-47"></a>       </td>
+</tr><tr
+ style="vertical-align:baseline;" id="TBL-1-70-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-70-1"
+class="td11">SpecSeg                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-70-2"
+class="td11">2021</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-70-3"
+class="td11">Cell extraction            </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-70-4"
+class="td11">Spectral density of pixels to identify ROIs. Also incorporates motion correction and cross-session matching.                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-70-5"
+class="td11"><a
+href="#Xde2021specseg">de Kraker et al.</a> <a
+href="#Xde2021specseg">2021</a>                                                                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-70-6"
+class="td11"><a href='https://github.com/Leveltlab/SpectralSegmentation' target='_blank'>https://github.com/Leveltlab/SpectralSegmentation</a><a
+ id="dx1-48"></a>       </td>
+</tr><tr
+ style="vertical-align:baseline;" id="TBL-1-71-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-71-1"
+class="td11">FIOLA                          </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-71-2"
+class="td11">2021</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-71-3"
+class="td11">Cell extraction (online)</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-71-4"
+class="td11">GPU- and computational graph-based speed-ups along with non-negative least squares for post-initialization signal extraction.</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-71-5"
+class="td11"><a
+href="#Xgiovannucci2021fiola">Giovannucci et al.</a> <a
+href="#Xgiovannucci2021fiola">2021</a>                                                             </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-71-6"
+class="td11"><a href='https://github.com/nel-lab/FIOLA' target='_blank'>https://github.com/nel-lab/FIOLA</a><a
+ id="dx1-49"></a>       </td>
+</tr><tr
+ style="vertical-align:baseline;" id="TBL-1-72-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-72-1"
+class="td11">PatchWarp                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-72-2"
+class="td11">2021</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-72-3"
+class="td11">Motion correction        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-72-4"
+class="td11">Affine transformation of subfields followed by stiching subfields together.                                                                       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-72-5"
+class="td11"><a
+href="#XHattori2021.11.10.468164">Hattori and Komiyama</a> <a
+href="#XHattori2021.11.10.468164">2021</a>                                                       </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-72-6"
+class="td11"><a href='https://github.com/ryhattori/PatchWarp' target='_blank'>https://github.com/ryhattori/PatchWarp</a><a
+ id="dx1-50"></a>       </td>
+</tr><tr
+class="hline"><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td></tr><tr
+ style="vertical-align:baseline;" id="TBL-1-73-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-73-1"
 class="td11">                       </td></tr></table>
 
 
@@ -1347,6 +1393,23 @@ class="rm-lmri-12">Patterns</span>, 1(3):100040, 2020.
   </p>
   <p class="bibitem" ><span class="biblabel">
 <a
+ id="Xcassidy2020frequency"></a><span class="bibsp">   </span></span>Ryan M Cassidy, Alexis G Bavencoffe, Elia R Lopez, Sai S Cheruvu,
+  Edgar T  Walters,  Rosa A  Uribe,  Anne Marie  Krachler,  and  Max A
+  Odem.   Frequency-independent biological signal identification (fibsi): A
+  free program that simplifies intensive analysis of non-stationary time series
+  data. <span
+class="rm-lmri-12">bioRxiv</span>, 2020.
+  </p>
+  <p class="bibitem" ><span class="biblabel">
+<a
+ id="Xalles2021chronic"></a><span class="bibsp">   </span></span>Sascha RA  Alles,  Max A  Odem,  Van B  Lu,  Ryan M  Cassidy,  and
+  Peter A  Smith.    Chronic  bdnf  simultaneously  inhibits  and  unmasks
+  superficial dorsal horn neuronal activity.   <span
+class="rm-lmri-12">Scientific reports</span>, 11(1):1–14,
+  2021.
+  </p>
+  <p class="bibitem" ><span class="biblabel">
+<a
  id="Xstringer2021cellpose"></a><span class="bibsp">   </span></span>Carsen Stringer, Tim Wang, Michalis Michaelos, and Marius Pachitariu.
   Cellpose: a generalist algorithm for cellular segmentation. <span
 class="rm-lmri-12">Nature Methods</span>,
@@ -1356,6 +1419,9 @@ class="rm-lmri-12">Nature Methods</span>,
 <a
  id="Xsong2021neural"></a><span class="bibsp">   </span></span>Alexander Song, Jeff L Gauthier, Jonathan W Pillow, David W Tank,
   and Adam S Charles.  Neural anatomy and optical microscopy (naomi)
+
+
+
   simulation   for   evaluating   calcium   imaging   methods.      <span
 class="rm-lmri-12">Journal  of</span>
   <span
@@ -1377,9 +1443,6 @@ class="rm-lmri-12">computational biology</span>, 17(1):e1008565, 2021.
   Erdogdu,  and  Mark J  Schnitzer.    Fast  and  statistically  robust  cell
   extraction from large-scale neural calcium imaging datasets. <span
 class="rm-lmri-12">bioRxiv</span>, 2021.
-
-
-
   </p>
   <p class="bibitem" ><span class="biblabel">
 <a
@@ -1411,6 +1474,9 @@ class="rm-lmri-12">Nature Methods</span>, pages
   Yoon. Efficient neural network approximation of robust pca for automated
   analysis of calcium imaging data. In <span
 class="rm-lmri-12">International Conference on Medical</span>
+
+
+
   <span
 class="rm-lmri-12">Image  Computing  and  Computer-Assisted  Intervention</span>,  pages  595–604.
   Springer, 2021.
@@ -1429,9 +1495,6 @@ class="rm-lmri-12">bioRxiv</span>, 2021.
  id="Xrupprecht2021database"></a><span class="bibsp">   </span></span>Peter  Rupprecht,  Stefano  Carta,  Adrian  Hoffmann,  Mayumi  Echizen,
   Antonin Blot, Alex C Kwan, Yang Dan, Sonja B Hofer, Kazuo Kitamura,
   Fritjof  Helmchen,  et al.    A  database  and  deep  learning  toolbox  for
-
-
-
   noise-optimized, generalized spike inference from calcium imaging. <span
 class="rm-lmri-12">Nature</span>
   <span
@@ -1452,6 +1515,36 @@ class="rm-lmri-12">PLoS computational biology</span>, 17(4):e1008806, 2021.
   neuron  extraction  and  spike  inference  in  calcium  imaging  using  deep
   self-supervised denoising. <span
 class="rm-lmri-12">Nature Methods</span>, pages 1–6, 2021.
+  </p>
+  <p class="bibitem" ><span class="biblabel">
+<a
+ id="Xde2021specseg"></a><span class="bibsp">   </span></span>Leander
+  de Kraker, Koen Seignette, Premnath Thamizharasu, Bastijn JG van den
+  Boom, Ildefonso Ferreira Pica, Ingo Willuhn, Christiaan N Levelt, and
+  Chris van der Togt. Specseg: cross spectral power-based segmentation of
+  neurons and neurites in chronic calcium imaging datasets. <span
+class="rm-lmri-12">bioRxiv</span>, pages
+  2020–10, 2021.
+  </p>
+
+
+
+  <p class="bibitem" ><span class="biblabel">
+<a
+ id="Xgiovannucci2021fiola"></a><span class="bibsp">   </span></span>Andrea Giovannucci, Changjia Cai, Cynthia Dong, Marton Rozsa, and
+  Eftychios Pnevmatikakis.  Fiola: An accelerated pipeline for fluorescence
+  imaging online analysis. 2021.
+  </p>
+  <p class="bibitem" ><span class="biblabel">
+<a
+ id="XHattori2021.11.10.468164"></a><span class="bibsp">   </span></span>Ryoma     Hattori     and     Takaki     Komiyama.             Patchwarp:
+  Corrections    of    non-uniform    image    distortions    in    two-photon
+  calcium    imaging    data    by    patchwork    affine    transformations.
+  <span
+class="rm-lmri-12">bioRxiv</span>,    2021.            doi:    10.1101/2021.11.10.468164.            URL
+  <a
+href="https://www.biorxiv.org/content/early/2021/11/13/2021.11.10.468164" class="url" ><span
+class="rm-lmtt-12">https://www.biorxiv.org/content/early/2021/11/13/2021.11.10.468164</span></a>.
 </p>
   </div>
 <!--l. 71--><p class="indent" >   <hr class='headingsep'>  <hr class='headingsep'> <h3>Footnotes</h3> <a
