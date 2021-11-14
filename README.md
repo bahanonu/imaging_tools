@@ -21,9 +21,9 @@ _Notes_:
 - Depending on monitor size and browser, scroll horizontally to see right-most table columns (e.g. websites/URLs).
 - Any additional papers or algorithms that should be added or suggested updates to the table, leave a <a href='https://bahanonu.com/syscarut/articles/226/' target='_blank'>comment on the associated blog post</a> or open an issue on the GitHub page, I want to make sure everyone’s brilliant work is acknowledged!
 
-<figcaption class="caption" ><span class="id">Table 1:</span><span
+<strong><figcaption class="caption" ><span class="id">Table 1: </span><span
 class="content">Ca<sup class="textsuperscript"><span
-class="rm-lmr-10x-x-109">2+</span></sup> imaging cell extraction and trace reconstruction algorithms</span></figcaption><!--tex4ht:label?: x1-2r -->
+class="rm-lmr-10x-x-109">2+</span></sup> imaging cell extraction and trace reconstruction algorithms</span></figcaption></strong><!--tex4ht:label?: x1-2r -->
 
 
 
