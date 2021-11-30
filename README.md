@@ -21,17 +21,15 @@ _Notes_:
 - Depending on monitor size and browser, scroll horizontally to see right-most table columns (e.g. websites/URLs).
 - Any additional papers or algorithms that should be added or suggested updates to the table, leave a <a href='https://bahanonu.com/syscarut/articles/226/' target='_blank'>comment on the associated blog post</a> or open an issue on the GitHub page, I want to make sure everyone’s brilliant work is acknowledged!
 
-<strong><figcaption class="caption" ><span class="id">Table 1: </span><span
+<strong>
+<figcaption class="caption" ><span class="id">Table 1: </span><span
 class="content">Ca<sup class="textsuperscript"><span
 class="rm-lmr-10x-x-109">2+</span></sup> imaging cell extraction and trace reconstruction algorithms</span></figcaption></strong><!--tex4ht:label?: x1-2r -->
-
-
 
 <div class="tabular"> <table id="TBL-1" class="tabular"
 
 ><colgroup id="TBL-1-1g"><col id="TBL-1-1" /></colgroup><colgroup id="TBL-1-2g"><col id="TBL-1-2" /></colgroup><colgroup id="TBL-1-3g"><col id="TBL-1-3" /></colgroup><colgroup id="TBL-1-4g"><col id="TBL-1-4" /></colgroup><colgroup id="TBL-1-5g"><col id="TBL-1-5" /></colgroup><colgroup id="TBL-1-6g"><col id="TBL-1-6" /></colgroup><tr class="hline"><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td></tr><tr   style="vertical-align:baseline;" id="TBL-1-1-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-1"  class="td11">Method                         </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-2"  class="td11">Year</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-3"  class="td11">Type                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-4"  class="td11">Notes                                                                                                                                                               </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-5"  class="td11">Source                                                                                    </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-6"  class="td11">Website</td>
-</tr><tr
-class="hline"><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td></tr><tr
+</tr><tr class="hline"><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td></tr><tr
  style="vertical-align:baseline;" id="TBL-1-2-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-2-1"
 class="td11">Turboreg                        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-2-2"
 class="td11">1998</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-2-3"
@@ -806,8 +804,20 @@ href="#XHattori2021.11.10.468164">2021</a>                                      
 class="td11"><a href='https://github.com/ryhattori/PatchWarp' target='_blank'>https://github.com/ryhattori/PatchWarp</a><a
  id="dx1-50"></a>       </td>
 </tr><tr
-class="hline"><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td></tr><tr
  style="vertical-align:baseline;" id="TBL-1-73-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-73-1"
+class="td11">MVG-CNN                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-73-2"
+class="td11">2021</td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-73-3"
+class="td11">Region extraction        </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-73-4"
+class="td11">Automated sleep states classification using multiplex visibility graphs and deep learning. <a href='https://physionet.org/content/calcium-imaging-sleep-state/1.0.0/' target='_blank'>Data URL</a><a
+ id="dx1-51"></a>.                                                </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-73-5"
+class="td11"><a
+href="#Xzhang2021automated">Zhang et al.</a> <a
+href="#Xzhang2021automated">2021</a>                                                                     </td><td  style="white-space:nowrap; text-align:left;" id="TBL-1-73-6"
+class="td11"><a href='https://github.com/comp-imaging-sci/MVG-CNN' target='_blank'>https://github.com/comp-imaging-sci/MVG-CNN</a><a
+ id="dx1-52"></a>       </td>
+</tr><tr
+class="hline"><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td></tr><tr
+ style="vertical-align:baseline;" id="TBL-1-74-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-74-1"
 class="td11">                       </td></tr></table>
 
 
@@ -1545,6 +1555,16 @@ class="rm-lmri-12">bioRxiv</span>,    2021.            doi:    10.1101/2021.11.1
   <a
 href="https://www.biorxiv.org/content/early/2021/11/13/2021.11.10.468164" class="url" ><span
 class="rm-lmtt-12">https://www.biorxiv.org/content/early/2021/11/13/2021.11.10.468164</span></a>.
+  </p>
+  <p class="bibitem" ><span class="biblabel">
+<a
+ id="Xzhang2021automated"></a><span class="bibsp">   </span></span>Xiaohui Zhang, Eric C Landsness, Wei Chen, Hanyang Miao, Michelle
+  Tang,  Lindsey M  Brier,  Joseph P  Culver,  Jin-Moo  Lee,  and  Mark A
+  Anastasio.    Automated  sleep  state  classification  of  wide-field  calcium
+  imaging data via multiplex visibility graphs and deep learning. <span
+class="rm-lmri-12">Journal of</span>
+  <span
+class="rm-lmri-12">Neuroscience Methods</span>, page 109421, 2021.
 </p>
   </div>
 <!--l. 71--><p class="indent" >   <hr class='headingsep'>  <hr class='headingsep'> <h3>Footnotes</h3> <a
