@@ -3,6 +3,9 @@ A table containing imaging analysis tools for biology and neuroscience, with a f
 
 Created by <a href='https://bahanonu.com' target='_blank'>Biafra Ahanonu, PhD</a> (<a href='https://www.hhmi.org/scientists/biafra-ahanonu' target='_blank'>HHMI Hanna Gray Fellow</a>, <a href='https://basbaumlab.ucsf.edu/people/' target='_blank'>Basbaum Lab</a>, UCSF).
 
+[![DOI](https://zenodo.org/badge/427113554.svg)](https://zenodo.org/badge/latestdoi/427113554)
+
+
 <p align="center">
   <a href="https://user-images.githubusercontent.com/5241605/94530890-9c3db280-01f0-11eb-99f0-e977f5edb304.gif">
     <img src="https://user-images.githubusercontent.com/5241605/94530890-9c3db280-01f0-11eb-99f0-e977f5edb304.gif" align="center" title="ciapkgMovie" alt="ciapkgMovie" width="60%" style="margin-left:auto;margin-right:auto;display:block;margin-bottom: 1%;">
@@ -14,6 +17,7 @@ Created by <a href='https://bahanonu.com' target='_blank'>Biafra Ahanonu, PhD</a
 The table can also be found at:
 - https://bahanonu.com/brain/imaging_tools/
 - https://bahanonu.com/syscarut/articles/233/
+- If you would like to cite this table, see `Cite this repository` in the right `About` section or https://zenodo.org/record/8349533.
 
 _Notes_:
 - I use _cell extraction_ to refer to algorithms that perform cell segmentation and extract neural activity traces.
